@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+@import url("https://fonts.googleapis.com/css2?family=Parisienne&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap");
+
+body {
+  background-image: linear-gradient(#ffc9d1, #d2c9ff);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+  background-color: white;
+  margin: auto;
+  width: 500px;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 5px 5px 10px #b48e9497;
+}
+
+h1 {
+  font: 3em "Parisienne", cursive;
+  text-align: center;
+  color: #674aff;
+  text-shadow: 1px 1px 2px #4733aca1;
+}
+
+h2 {
+  color: #ff5e61;
+  background-color: #ffc7d04c;
+  font-family: "Grape Nuts", cursive;
+
+  /*   background-color: #ffc7d088;
+
+   */
+}
+
+p {
+  text-align: ;
+  text-indent: 50px;
+}
